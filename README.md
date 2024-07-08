@@ -1,0 +1,2 @@
+# betting-project
+sanity-project
